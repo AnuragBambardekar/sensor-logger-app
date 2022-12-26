@@ -1,7 +1,7 @@
 # sensor-logger-app
 ML for IoT class assignment
 
--Enable HTTP Push <br>
+-Enable HTTP Push on Sensor Logger App <br>
 -Configure the settings in the Sensor Logger app such that the Push URL on Mobile and PC is same. <br>
 -Tap to test connection and you should get Status 200 OK <br>
 -Check the network by running the check-host-name.py <br>
