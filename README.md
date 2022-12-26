@@ -8,7 +8,9 @@ ML for IoT class assignment
 -Then, run the sensor-test.py file and go to the browser by clicking the Flask webapp address port<br>
 -Start recording on the Sensor Logger app. <br>
 -View output <br>
-![Sensor logger Output](/sensorlogger.png?raw=true "Sensor Logger output")
+![Sensor logger Output](/sensorlogger.png?raw=true "Sensor Logger output") <br>
+
+-data-collector.py was created by me to record 3 different activities and log the gyroscope readings in CSV files, and these 3 different activities were used to understand Hierarchical and k-means clustering. <br>
 
 **Source code by:** <br>
 https://github.com/tszheichoi/awesome-sensor-logger <br>
