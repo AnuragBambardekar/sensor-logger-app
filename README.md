@@ -8,7 +8,7 @@ ML for IoT class assignment
 -Then, run the sensor-test.py file and go to the browser by clicking the Flask webapp address port<br>
 -Start recording on the Sensor Logger app. <br>
 -View output <br>
-![Sensor logger Output](/images/sensorlogger.png?raw=true "Sensor Logger output")
+![Sensor logger Output](/sensorlogger.png?raw=true "Sensor Logger output")
 
 **Source code by:** <br>
 https://github.com/tszheichoi/awesome-sensor-logger <br>
