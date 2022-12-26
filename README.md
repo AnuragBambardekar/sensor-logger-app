@@ -11,6 +11,7 @@ ML for IoT class assignment
 ![Sensor logger Output](/sensorlogger.png?raw=true "Sensor Logger output") <br>
 
 -data-collector.py was created by me to record 3 different activities and log the gyroscope readings in CSV files, and these 3 different activities were used to understand Hierarchical and k-means clustering. <br>
+![Sensor logger Output](/gyroscopereadings.png?raw=true "gyroscope readings output") <br>
 
 **Source code by:** <br>
 https://github.com/tszheichoi/awesome-sensor-logger <br>
